@@ -10,4 +10,3 @@
    <a href="https://t.me/thallescarvalhf0" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=red" target="_blank"></a> 
 </div>
   
-  https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
